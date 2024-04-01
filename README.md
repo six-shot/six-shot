@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**six-shot/six-shot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=700&height=70&center=true&size=37&lines=Hi+there,++friend+👋;Welcome+To+My+Github+Profile;The+Name+is+Domeh+John+Kelvin)](https://git.io/typing-svg)
+  
+<p align=center><strong> A passionately curious person </strong></p>
 
-Here are some ideas to get you started:
+```bash
+> whoami
+  Okhuomon Ajayi
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+six-shot
+-----------------
+
+OS:         Linux
+Shell:      Bash
+Pronouns:   She/Her
+Country:    Ghana
+Languages:  Javascript, Python, TypeScript
+Learning:   Rust
+```
+
