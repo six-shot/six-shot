@@ -18,6 +18,6 @@ Shell:      Bash
 Pronouns:   She/Her
 Country:    Ghana
 Languages:  Javascript, Python, TypeScript
-Learning:   Rust
+Learning:   Rust, Solidity
 ```
 
