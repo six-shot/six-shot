@@ -16,7 +16,7 @@ six-shot
 OS:         Linux
 Shell:      Bash
 Pronouns:   She/Her
-Country:    Ghana
+Country:    Nigeria
 Languages:  Javascript, Python, TypeScript
 Learning:   Rust, Solidity
 ```
