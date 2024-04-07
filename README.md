@@ -10,7 +10,7 @@
 ```
 
 ```python
-
+six-shot
 -----------------
 
 OS:         Linux
