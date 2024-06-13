@@ -21,3 +21,4 @@ Languages:  Javascript, Python, TypeScript
 Learning:   Rust, Solidity
 ```
 
+![Profile Picture](https://github.com/six-shot/Optimus-Prime-wallpaper/blob/main/wallpapersden.com_fortnite-optimus-prime-hd-transformers_1920x1080.jpg?raw=true)
