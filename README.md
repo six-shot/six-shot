@@ -21,6 +21,3 @@ Languages:  Javascript, Python, TypeScript
 Learning:   Rust, Solidity
 ```
 
-```bash
-[![](https://ossrank.com/widget/923675)](https://ossrank.com/c/923675-okhuomon-ajayi)
-```
