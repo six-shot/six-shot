@@ -9,9 +9,6 @@
   Okhuomon Ajayi
 ```
 
-[![](https://ossrank.com/widget/923675)](https://ossrank.com/c/923675-okhuomon-ajayi)
-
-
 ```python
 six-shot
 -----------------
@@ -23,5 +20,7 @@ Country:    Nigeria
 Languages:  Javascript, Python, TypeScript
 Learning:   Rust, Solidity
 ```
+
+[![](https://ossrank.com/widget/923675)](https://ossrank.com/c/923675-okhuomon-ajayi)
 
 ![Profile Picture](https://github.com/six-shot/Optimus-Prime-wallpaper/blob/main/wallpapersden.com_fortnite-optimus-prime-hd-transformers_1920x1080.jpg?raw=true)
