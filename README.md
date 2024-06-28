@@ -14,7 +14,7 @@ six-shot
 -----------------
 
 OS:         Linux
-Shell:      Bash
+Shell:      Zsh
 Pronouns:   She/Her
 Country:    Nigeria
 Languages:  Javascript, Python, TypeScript
