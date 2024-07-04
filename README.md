@@ -19,5 +19,6 @@ Pronouns:   She/Her
 Country:    Nigeria
 Languages:  Javascript, Python, TypeScript
 Learning:   Rust, Solidity
+CS graduate
 ```
 
