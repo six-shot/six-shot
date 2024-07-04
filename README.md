@@ -7,7 +7,7 @@
 ```bash
 > whoami
   Okhuomon Ajayi
-CS graduate
+  CS GRADUATE
 ```
 
 ```python
