@@ -7,6 +7,7 @@
 ```bash
 > whoami
   Okhuomon Ajayi
+CS graduate
 ```
 
 ```python
@@ -19,6 +20,6 @@ Pronouns:   She/Her
 Country:    Nigeria
 Languages:  Javascript, Python, TypeScript
 Learning:   Rust, Solidity
-CS graduate
+
 ```
 
