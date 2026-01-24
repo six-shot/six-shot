@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=700&height=70&center=true&size=37&lines=Six+Fleeping+Shot;The+Name+is+Okhuomon+Ajayi)](https://git.io/typing-svg)
   
-<p align=center><strong> A Bot in the making </strong></p>
+<p align=center><strong> A Precision Bot </strong></p>
 
 ```bash
 > whoami
