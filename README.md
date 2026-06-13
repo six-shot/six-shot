@@ -14,7 +14,7 @@
 six-shot
 -----------------
 
-OS:         Linux
+OS:         Linux, Mac, Windows
 Shell:      Zsh
 Pronouns:   She/Her
 Country:    Nigeria
